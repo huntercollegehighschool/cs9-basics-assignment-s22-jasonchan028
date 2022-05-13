@@ -19,4 +19,4 @@ base = int(input("Enter the base: "))
 height = int(input("Enter the height: "))
 print(base * height / 2)
 
-#created 2 variables, base and height, that get an input from the user, then calculate the area using base*height/2
+#created 2 variables, base and height, that get an input from the user, then calculated the area using base*height/2
