@@ -13,3 +13,8 @@ Hello, Ash Ketchum
 '''
 
 #start writing your code below
+first_name = input("What is your first name?")
+last_name = input("What is your last name?")
+print("Hello, " + first_name + " " + last_name)
+
+#created 2 variables that got the input, then concatenated all of the strings while adding spaces in between as well
